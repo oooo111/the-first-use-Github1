@@ -1,4 +1,4 @@
-# the-first-use-Github1
+
 the text similarity identification
 from jieba import lcut
 from gensim.similarities import SparseMatrixSimilarity
